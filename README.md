@@ -1,18 +1,73 @@
-## Getting Started
+# ☕ Java + DSA Daily Practice
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-Practice-blue?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/Daily-Commits-green?style=for-the-badge)
 
-## Folder Structure
+## 👨‍💻 About Me
+Hi! I'm **Aakash**, a 3rd year CSE student
+from India, learning Java and DSA daily
+with the goal of becoming a
+**Java Backend Developer by 2027.**
 
-The workspace contains two folders by default, where:
+## 🎯 Goal
+- Master Java Core + OOPs
+- Learn Spring Boot & REST APIs
+- Build real world projects
+- Land a tech job by 2027
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 📚 Topics Covered
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+### ✅ Java Basics
+- Variables, Data Types, Operators
+- Conditionals, Loops
+- Functions & Methods
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+### ✅ OOPs Concepts
+- Classes & Objects
+- Encapsulation
+- Inheritance
+- Polymorphism & Overriding
+- Abstraction & Interfaces
 
-## Dependency Management
+### ✅ Arrays & DSA
+- Array operations
+- Searching & Sorting
+- Problem solving
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### 🔄 Coming Soon
+- Collections Framework
+- Exception Handling
+- Spring Boot
+- MySQL & REST APIs
+- DSA Problems
+
+## 📅 Daily Commitment
+```
+✅ Watch 1-2 hours Java tutorials
+✅ Practice 1-2 hours coding
+✅ Push code to GitHub daily
+✅ Never stop learning!
+```
+
+## 🛠️ Tools & Technologies
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 📈 My Journey
+| Month | Focus |
+|---|---|
+| Month 1-2 | Java Core + OOPs ✅ |
+| Month 3-4 | Spring Boot 🔄 |
+| Month 5-6 | Projects + DSA 🔄 |
+| Month 7+ | Job Applications 🎯 |
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-raut-75b1b0334/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aakash82603)
+
+---
+⭐ **Star this repo if it motivates you!**
+📅 **Updated daily — come back tomorrow!**
