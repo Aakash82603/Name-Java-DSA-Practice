@@ -1,0 +1,20 @@
+Javalearning/
+├── .idea/
+│   ├── modules.xml
+│   └── ...
+├── src/
+│   ├── main/
+│   │   └── java/
+│   │       ├── array/
+│   │       ├── Basic/
+│   │       ├── Constructor-Inheritance/
+│   │       ├── Day09-Overriding-Polymorphism/
+│   │       ├── day10abstraction/
+│   │       │   └── PaymentSystem.java
+│   │       ├── Encapsulation/
+│   │       ├── oop/
+│   │       └── String/
+│   └── test/
+│       └── java/
+├── Javalearning.iml
+└── pom.xml (optional, for Maven)
